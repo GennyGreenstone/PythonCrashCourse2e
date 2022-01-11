@@ -1,0 +1,1 @@
+## 3-10. Every Fuction: Think of something you could store in a list. Make a list of anything. Write a program that creates a list containing these items and then uses each function introduced in this chapter at least once. (change first value, append,insert, del statement, pop(), pop from specific place, remove, sort, sorted, reverse, len)
